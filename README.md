@@ -39,7 +39,7 @@ com interface gráfica para selecionar a pasta.
 
 [Ver projeto](https://github.com/JoaoMacedo1204/organizador_arquivos_python)
 
-### 📄 Mesclador de PDFs
+### Mesclador de PDFs
 Script em Python para reunir arquivos PDF em um único documento.
 
 [Ver projeto](https://github.com/JoaoMacedo1204/mesclador_pdf_python)
